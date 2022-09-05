@@ -13,3 +13,9 @@ let number_2 = 12;
 let result = number_1 + number_2;
 alert(result);
 console.log(result);
+/*----------------------------------------------*/
+
+const names = "Dhinesh"; // Values Cannot Change
+const dob = "05-07-1998"; // Values Cannot Change
+console.log(names);
+console.log(dob);
