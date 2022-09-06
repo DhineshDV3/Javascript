@@ -27,7 +27,20 @@ console.log(person);
 
 // Dot Notation => Mostly Used
 console.log(person.user_name);
-console.log(person.siblings.brother);
+console.log(person.siblings.sister);
 
-// Bracket Notation
-console.log(person[user_name]);
+// // Bracket Notation
+// console.log(person[user_name]);
+
+/*--------------Arrays---------------------------*/
+
+let array       = [];     // Empty Array
+let favColors   = ["red", "green", "yellow", "white"];
+
+console.log(array);
+console.log(favColors);
+console.log(favColors[0]);  // Display the value in 0 element
+
+favColors[5] = "black";     // Add the value to 5th element of the Array
+console.log(favColors);
+console.log(favColors.length);  // No. of elements present in the array
