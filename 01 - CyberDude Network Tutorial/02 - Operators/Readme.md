@@ -3,7 +3,7 @@ JavaScript Operators
         Addition
         Subtraction
         Multiplication
-        Divison
+        Division
     Comparison Operators
     Assignment Operators
     Logical Operators
